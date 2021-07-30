@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+workspace/images/
+workspace/pre-trained-models/
+workspace/models/
+workspace/annotations/
+Tensorflow/
+*.pyc
+__pycache__/
